@@ -1,2 +1,7 @@
-BGRDTHREHERYS6HTR4RTAHN
-ASBAHETAH4ETAH
+public class PrintNumbers {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 50; i++) {
+            System.out.println(i);
+        }
+    }
+}
